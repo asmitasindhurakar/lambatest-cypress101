@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www.lambdatest.com/selenium-playground",
+  "screenshotOnRunFailure": true,
+  "videoCompression": false,
+  "video": true
+}
